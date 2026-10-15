@@ -1,8 +1,7 @@
 
-- Hackthebox inspiring student in path to CPTS ❤️‍🔥
-- Penetration testing of Network and Active Directory
-- CTF player and solving problems
-
+* 🎯 Aspiring Penetration Tester on the path to CPTS ❤️‍🔥
+* 🔍 Network & Active Directory Security
+* 🚩 CTF Player & Cybersecurity Enthusiast
 <!--
 **x-krandel/x-krandel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
