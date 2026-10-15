@@ -1,4 +1,7 @@
-## Hi there 👋
+
+- Hackthebox inspiring student in path to CPTS ❤️‍🔥
+- Penetration testing of Network and Active Directory
+- CTF player and solving problems
 
 <!--
 **x-krandel/x-krandel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
